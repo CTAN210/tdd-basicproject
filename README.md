@@ -1,3 +1,5 @@
-# Basic project developed using a Test-Driven-Development principle.
+# Basic learning project 
 
-Test scripts found in test-demo/test
+Developed using a Test-Driven-Development principle.
+
+Test scripts found in test-demo/test!
